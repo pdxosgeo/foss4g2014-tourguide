@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Food Cart Pods in Portland</name>
+  <description><![CDATA[Portland OR has food carts congregated in Pods, lots throughout the city with between 3 and 60 carts per pod. This map shows where those lots are. Brought to you by http://foodcartsportland.com]]></description>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style12">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Mississippi Marketplace</name>
+    <description><![CDATA[<div dir="ltr">A lot in North Portland's Mississippi Historic Distric, this pod features 15 carts serving food from breakfast to late night. The Big Egg, Koi Fusion, Burgatroyd, Native Bowl to name a few. PROST! German Pub is on site to wet your palate.</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-122.675690,45.554485,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kultural Korner</name>
+    <description><![CDATA[<div dir="ltr">3 carts</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-122.675743,45.548191,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>North Station</name>
+    <description><![CDATA[<div dir="ltr">Featuring 5 carts including Istanbul Delight and Gimme Sandwich this lot offers indoor seating at Pizza Depokos, a wood fired pizza restaurant onsite.</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-122.695374,45.562531,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lombard Pointe</name>
+    <description><![CDATA[<div dir="ltr">3 carts</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-122.661110,45.576981,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Alberta15</name>
+    <description><![CDATA[<div dir="ltr">A small but vibrant lot featuring four carts including The Cultured Caveman, Minizo, Katsu Zoku and more.</div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-122.650146,45.559196,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Q19</name>
+    <description><![CDATA[<div dir="ltr">A lot in NW Portland with 6 carts and Quimby's a bar onsite with indoor seating, beer, wine and mixed drinks.</div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-122.690208,45.533710,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 9th and Alder</name>
+    <description><![CDATA[<div dir="ltr">Part of the largest lot in the city, the city block between Alder and Washington from 9th-10th boasts 60+ food carts. The largest concentration of street food in America.</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-122.680939,45.520660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 5th and Stark</name>
+    <description><![CDATA[<div dir="ltr">One of Portland's first food cart lot, this pod features 20 carts including old favorites like Tabor, Give Pizza A Chance, Aybla Grill, Veli Thai and La Jarochita. </div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-122.676041,45.521084,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 3rd and Washington</name>
+    <description><![CDATA[<div dir="ltr">A lot featuring some of Portland's oldest Mexican carts this lot is very international featuring cuisines from Indonesia, Egypt, Lebanon, Alaska, Thailand, Vietnam, Greece and more. 20 carts on site</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-122.674370,45.519878,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 2nd and Stark</name>
+    <description><![CDATA[<div dir="ltr">Featuring 3-5 carts.</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-122.673470,45.520348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 3rd and Ash</name>
+    <description><![CDATA[<div dir="ltr">4 carts featuring Big-Ass Sandwiches and Olympic Grill, this lot is open for lunch along with serving the masses for late night eats on the weekend.</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-122.673256,45.522045,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pioneer Courthouse Square</name>
+    <description><![CDATA[<div dir="ltr">Portland's Living Room, this public park features 5 carts including Honkin' Huge Burritos, Portland's oldest cart.</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-122.679306,45.518871,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 4th and Hall</name>
+    <description><![CDATA[<div dir="ltr">This lot, supported by Portland State University and local businesses features 25 carts including Homegrown Smoker, an all Vegan BBQ and Portland Soup Company, one of the most beautiful carts in town. </div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-122.681541,45.509529,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cartopia</name>
+    <description><![CDATA[<div dir="ltr">Portland's first and most popular late night lot, the 6 carts here stay open most nights until 4am. Cuisine includes fried pies, Belgian fries with poutine, wood fired pizza and a creperie.</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-122.653404,45.512379,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SE 33rd and Hawthorne Alleyway</name>
+    <description><![CDATA[<div dir="ltr">A small hidden lot in the alleyway off SE 33rd featuring 2 carts including The Ramen Truck and Cheese &amp; Crack</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-122.631027,45.512390,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SE 32nd and Hawthorne</name>
+    <description><![CDATA[<div dir="ltr">A lot featuring 3 carts and covered seating.</div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-122.632545,45.512180,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>A la Carts Food Pavilion</name>
+    <description><![CDATA[<div dir="ltr">Featuring 15 carts, covered enclosed and heated seating. The only lot in town with an onsite hair salon.</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-122.611275,45.504627,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Good Food Here</name>
+    <description><![CDATA[<div dir="ltr">Featuring 18 food carts, one of the most welcoming lots with covered seating, beer provided by Rogue Brewing and even treats for the kids.</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-122.618019,45.516457,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Carts on Foster</name>
+    <description><![CDATA[<div dir="ltr">Featuring 5-7 carts, indoor seating and an onsite bar in a cart. </div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-122.608704,45.495731,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SE 13th and Lexington</name>
+    <description><![CDATA[<div dir="ltr">Along Portland's antique row, this lot features 6 carts and covered seating. Enjoy lunch while wandering this magical neighborhood.</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-122.653183,45.467316,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cartlandia</name>
+    <description><![CDATA[<div dir="ltr">One of the largest lots on the east side, this pod features 16 carts, covered seating and beer garden. The lot, alongside the Springwater Corridor has an onsite bike mechanic. Parking available.</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-122.579323,45.463623,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>A la Carts</name>
+    <description><![CDATA[<div dir="ltr">7 carts and covered seating. An international smorgasbord of carts featuring Mexican, Salvadoran, Indian, Peruvian and Thai. </div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-122.558815,45.519192,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NE 23rd and Alberta</name>
+    <description><![CDATA[<div dir="ltr">3 carts and covered seating</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-122.642097,45.559158,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Krueger Farm Stand</name>
+    <description><![CDATA[<div dir="ltr">Featuring 2 food carts, a farmer's market and beer from Captured by Porches. This lot has covered seating and offers food into the night.</div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-122.742172,45.587711,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>N Vancouver and Fremont</name>
+    <description><![CDATA[<div dir="ltr">Featuring 5 carts with cuisine including BBQ, West African, South African Indian and Mexican. Covered seating available.</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-122.668144,45.548122,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SE 48th and Woodstock</name>
+    <description><![CDATA[<div dir="ltr">3 carts featuring breakfast, hot dogs and burgers and New Mexican cuisine. </div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-122.613014,45.479099,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Division of West/East</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style13</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -122.667847,45.577522,0.000000
+        -122.667503,45.461575,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Division of North/South</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style12</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -122.534592,45.522648,0.000000
+        -122.701576,45.522903,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>SW 10th and Alder</name>
+    <description><![CDATA[<div dir="ltr">An extension of the city's largest food cart lot featuring 10 carts. The two blocks have 60+ carts open daily and on weekends.</div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-122.681984,45.520916,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rose City Food Park</name>
+    <description><![CDATA[<div dir="ltr">A food cart pod featuring 10+ vendors, beer by Captured by Porches and covered seating. NE 52nd and Sandy</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-122.609352,45.540577,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Row</name>
+    <description><![CDATA[<div dir="ltr">A food cart pod featuring Whiffies, Big-Ass Sandwiches, Koi Fusion, Potato Champion and more. Open daily 11-7pm</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-122.663551,45.520496,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Fixin&#39; To</name>
+    <description><![CDATA[<div dir="ltr">A local bar which hosts 2 vendors selling great cuisine. <a href="http://www.foodcartsportland.com/category/location/north-portland-location/n-lombard-and-richmond/" target="_blank">More information here.</a><br></div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-122.751617,45.588936,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>N Mississippi and Beech</name>
+    <description><![CDATA[<div dir="ltr">Two vendors here - Gabagool and Doner Haus</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-122.675339,45.549641,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Killingsworth Station</name>
+    <description><![CDATA[<div dir="ltr">4 vendors</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-122.676537,45.562832,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Central Eastside Food Cart Pod</name>
+    <description><![CDATA[<div dir="ltr">SE Stark and MLK</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-122.661430,45.519127,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 6th and Columbia</name>
+    <description><![CDATA[6 vendors<br>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-122.681366,45.514347,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>5ways Food Cart Pod</name>
+    <description><![CDATA[<div dir="ltr">4 vendors</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-122.600471,45.556313,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hillsdale Cart Pod</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-122.692993,45.478565,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pod 28</name>
+    <description><![CDATA[<div dir="ltr">5 vendors - covered seating, beer available</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-122.637589,45.521187,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Base Camp Brewing</name>
+    <description><![CDATA[<div dir="ltr">2 vendors, indoor seating, brewpub</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-122.656471,45.519939,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
