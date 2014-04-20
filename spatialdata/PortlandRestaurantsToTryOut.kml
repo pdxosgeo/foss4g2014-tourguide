@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Portland Restaurants To Try Out</name>
+  <description><![CDATA[To ensure we don't get stuck in a rut- a hit list of must try restaurants... with the occasional food cart and pub sneaking in too
+
+Green markers = breakfast 
+
+Gleaned from the ether, portlandfood.org and friends.]]></description>
+  <NetworkLink>
+    <name>Portland Restaurants To Try Out</name>
+    <Link>
+      <href>http://maps.google.fi/maps/ms?gl=fi&amp;ie=UTF8&amp;oe=UTF8&amp;showlabs=1&amp;hl=fi&amp;msa=0&amp;msid=204510865569858722361.000439933d0f084ae0869&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>
