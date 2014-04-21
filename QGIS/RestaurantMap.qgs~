@@ -5,10 +5,10 @@
     <mapcanvas>
         <units>feet</units>
         <extent>
-            <xmin>7642867.71350067853927612</xmin>
-            <ymin>675046.72060552320908755</ymin>
-            <xmax>7670203.59883974865078926</xmax>
-            <ymax>698925.60873543692287058</ymax>
+            <xmin>7602309.48261895589530468</xmin>
+            <ymin>647848.44509030412882566</ymin>
+            <xmax>7698867.38173476047813892</xmax>
+            <ymax>732195.27499708416871727</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -36,10 +36,10 @@
             <layer_coordinate_transform destAuthId="USER:100000" srcAuthId="EPSG:102326" srcDatumTransform="-1" destDatumTransform="-1" layerid="business_licenses20140420133625301"/>
         </layer_coordinate_transform_info>
     </mapcanvas>
-    <legend updateDrawingOrder="true" activeLayer="business_licenses20140420134047248">
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="PortlandRestaurants" showFeatureCount="0">
+    <legend updateDrawingOrder="true">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="PortlandRestaurants" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="PortlandRestaurants20140420140002791" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="PortlandRestaurants20140420140002791" visible="0"/>
             </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Environ_Consult" showFeatureCount="0">
@@ -47,9 +47,9 @@
                 <legendlayerfile isInOverview="0" layerid="Environ_Consult20140420143106349" visible="0"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Geo_Technical" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Geo_Technical" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="Geo_Technical20140420153626937" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="Geo_Technical20140420153626937" visible="0"/>
             </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="business_licenses" showFeatureCount="0">
@@ -1636,7 +1636,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>business_licenses20140420134047248</id>
-            <datasource>file:../spatialdata/business_licenses.csv?type=csv&amp;xField=GISX&amp;yField=GISY&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no</datasource>
+            <datasource>file:../spatialdata/business_licenses.csv?type=csv&amp;xField=GISX&amp;yField=GISY&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no&amp;subset=%22NAICSDescription%22%20%3D%20'RESEARCH%20AND%20DEVELOPMENT%20IN%20THE%20PHYSICAL,%20ENGINEERING,%20AND%20LIFE%20SCIENCES'</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
