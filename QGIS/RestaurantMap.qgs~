@@ -41,7 +41,7 @@
             <layer_coordinate_transform destAuthId="USER:100000" srcAuthId="EPSG:102726" srcDatumTransform="-1" destDatumTransform="-1" layerid="PortlandRestaurants20140421104929190"/>
         </layer_coordinate_transform_info>
     </mapcanvas>
-    <legend updateDrawingOrder="true" activeLayer="PortlandStreets_Streets20140420131224782">
+    <legend updateDrawingOrder="true" activeLayer="PortlandBridges_Bridge_pdx20140420131101315">
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="PortlandRestaurants" showFeatureCount="0">
             <filegroup open="true" hidden="false">
                 <legendlayerfile isInOverview="0" layerid="PortlandRestaurants20140421113526136" visible="1"/>
@@ -2521,7 +2521,7 @@
             <excludeAttributesWFS/>
             <attributeactions/>
         </maplayer>
-        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+        <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>PortlandStreets_Streets20140420131224782</id>
             <datasource>../../../../GIS Data/CityofPortland/Streets_pdx/PortlandStreets\Streets.shp</datasource>
             <title></title>
@@ -2588,7 +2588,7 @@
                 <property key="labeling/displayAll" value="false"/>
                 <property key="labeling/dist" value="0"/>
                 <property key="labeling/distInMapUnits" value="false"/>
-                <property key="labeling/enabled" value="false"/>
+                <property key="labeling/enabled" value="true"/>
                 <property key="labeling/fieldName" value="STREETNAME"/>
                 <property key="labeling/fontBold" value="false"/>
                 <property key="labeling/fontCapitals" value="4"/>
