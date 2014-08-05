@@ -37,6 +37,7 @@
             <layer_coordinate_transform destAuthId="USER:100000" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="ConventionCenterRast20140421091449685"/>
             <layer_coordinate_transform destAuthId="USER:100000" srcAuthId="EPSG:102726" srcDatumTransform="-1" destDatumTransform="-1" layerid="Restaurants20140615172449839"/>
             <layer_coordinate_transform destAuthId="USER:100000" srcAuthId="EPSG:102726" srcDatumTransform="-1" destDatumTransform="-1" layerid="business_licenses20140420134047248"/>
+            <layer_coordinate_transform destAuthId="USER:100000" srcAuthId="EPSG:102726" srcDatumTransform="-1" destDatumTransform="-1" layerid="NearbyRestaurants_14080420140804214003116"/>
             <layer_coordinate_transform destAuthId="USER:100000" srcAuthId="EPSG:102326" srcDatumTransform="-1" destDatumTransform="-1" layerid="business_licenses20140420133625301"/>
             <layer_coordinate_transform destAuthId="USER:100000" srcAuthId="EPSG:102726" srcDatumTransform="-1" destDatumTransform="-1" layerid="PortlandRestaurants20140520211111917"/>
             <layer_coordinate_transform destAuthId="USER:100000" srcAuthId="EPSG:102726" srcDatumTransform="-1" destDatumTransform="-1" layerid="PortlandRestaurants20140421104929190"/>
@@ -46,8 +47,8 @@
         </layer_coordinate_transform_info>
     </mapcanvas>
     <legend updateDrawingOrder="true" activeLayer="mileRestaurants20140622204036730">
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="mileRestaurants" showFeatureCount="0">
-            <filegroup open="true" hidden="false">
+        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="mileRestaurants" showFeatureCount="0">
+            <filegroup open="false" hidden="false">
                 <legendlayerfile isInOverview="0" layerid="mileRestaurants20140622204036730" visible="1"/>
             </filegroup>
         </legendlayer>
