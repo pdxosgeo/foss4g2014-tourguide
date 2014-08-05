@@ -45,7 +45,7 @@
             <layer_coordinate_transform destAuthId="USER:100000" srcAuthId="EPSG:102326" srcDatumTransform="-1" destDatumTransform="-1" layerid="business_licenses20140420134000568"/>
         </layer_coordinate_transform_info>
     </mapcanvas>
-    <legend updateDrawingOrder="true">
+    <legend updateDrawingOrder="true" activeLayer="mileRestaurants20140622204036730">
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="mileRestaurants" showFeatureCount="0">
             <filegroup open="true" hidden="false">
                 <legendlayerfile isInOverview="0" layerid="mileRestaurants20140622204036730" visible="1"/>
